@@ -1,0 +1,48 @@
+# Core API & Server
+fastapi
+uvicorn[standard]
+gunicorn
+pydantic-settings
+python-dotenv
+python-multipart
+
+# Task Queue & Async
+arq
+redis
+httpx
+asyncio
+
+# OSINT Tool Libraries (Pip-based)
+holehe
+maigret
+socialscan
+h8mail
+ghunt
+twscrape
+phonenumbers
+
+# Browser Automation & Stealth
+playwright
+playwright-stealth
+scrapling
+
+# Desktop UI (customtkinter)
+customtkinter
+Pillow
+
+# Data & Export
+sqlalchemy
+pandas
+openpyxl
+reportlab
+requests
+
+# Analytics & Processing
+opencv-python
+numpy
+pytesseract
+
+# Other Utilities
+colorama
+certifi
+urllib3
